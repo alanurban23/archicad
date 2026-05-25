@@ -1,0 +1,24 @@
+{
+  "project_id": "DOM_100_MVP_A",
+  "country": "PL",
+  "house_type": "single_family_detached",
+  "target_useful_area_m2": 100,
+  "tolerance_m2": {
+    "min": 95,
+    "max": 105
+  },
+  "household": {
+    "adults": 2,
+    "children": 2,
+    "special_needs": []
+  },
+  "budget": {
+    "currency": "PLN",
+    "capex_range": "do_uzupelnienia",
+    "status": "do_weryfikacji"
+  },
+  "style_preferences": ["simple_gable", "compact_form"],
+  "priorities": ["cost_control", "buildability", "energy_reasonable"],
+  "source": "demo_defaults",
+  "assumption_status": "robocze"
+}

@@ -1,0 +1,20 @@
+{
+  "project_id": "DOM_100_MVP_A",
+  "description_source": "pdf_project_main",
+  "compliance_basis": "decision_wz_or_mpzp",
+  "overall_status": "do_weryfikacji",
+  "checks": [
+    {
+      "name": "przeznaczenie_terenu",
+      "result": "do_weryfikacji",
+      "comment": "Brak wskazanego dokumentu bazowego WZ/MPZP w repo."
+    },
+    {
+      "name": "parametry_zabudowy",
+      "result": "do_weryfikacji",
+      "comment": "Wymaga automatycznej ekstrakcji danych z PDF i porownania z limitami."
+    }
+  ],
+  "mismatches": [],
+  "designer_decisions_required": []
+}

@@ -1,0 +1,19 @@
+{
+  "project_id": "DOM_100_MVP_A_CASE01",
+  "documents": [
+    {
+      "id": "pdf_project_main",
+      "type": "pdf",
+      "title": "Projekt budowlany - opis i rzuty",
+      "path": "tests/fixtures/input/sample_project.case01.pdf",
+      "status": "potwierdzone"
+    },
+    {
+      "id": "decision_wz_or_mpzp",
+      "type": "planning_basis",
+      "title": "MPZP fragment",
+      "path": "tests/fixtures/input/sample_mpzp.case01.pdf",
+      "status": "potwierdzone"
+    }
+  ]
+}

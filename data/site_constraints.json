@@ -1,0 +1,22 @@
+{
+  "project_id": "DOM_100_MVP_A",
+  "plot": {
+    "location": "PL_demo_no_exact_plot",
+    "area_m2": null,
+    "geometry": null,
+    "status": "do_weryfikacji"
+  },
+  "planning": {
+    "designation": {"value": "MN", "status": "robocze"},
+    "roof": {"value": "gable", "status": "robocze"},
+    "biologically_active_area_min_pct": {"value": 50, "status": "robocze"},
+    "parking_spaces_min": {"value": 2, "status": "robocze"},
+    "height_limit_m": {"value": null, "status": "do_weryfikacji"}
+  },
+  "utility_access": {
+    "water": "do_weryfikacji",
+    "sewage": "do_weryfikacji",
+    "power": "do_weryfikacji",
+    "gas": "do_weryfikacji"
+  }
+}

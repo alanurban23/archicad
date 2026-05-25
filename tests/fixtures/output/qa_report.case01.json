@@ -1,0 +1,23 @@
+{
+  "project_id": "DOM_100_MVP_A_CASE01",
+  "scenario": "MVP_A_CASE_01",
+  "checks_summary": {
+    "total": 8,
+    "passed": 5,
+    "warnings": 1,
+    "failed": 2
+  },
+  "errors": [
+    "Niezgodny typ dachu wzgledem MPZP.",
+    "Niespelnione minimalne PBC."
+  ],
+  "risks": [
+    "Ryzyko opoznienia uzgodnien formalnych bez korekty PZT i geometrii dachu."
+  ],
+  "missing_data": [
+    "Brak finalnej mapy do celow projektowych."
+  ],
+  "designer_decisions_required": [
+    "Akceptacja korekty bryly i PZT przed modelowaniem wykonawczym."
+  ]
+}

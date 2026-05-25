@@ -1,0 +1,23 @@
+{
+  "variant_id": "DOM_100_MVP_A",
+  "building": {
+    "storeys": 1,
+    "footprint_concept": "compact_rectangle",
+    "roof_type": "gable",
+    "construction_risk": "low_to_medium"
+  },
+  "spaces": [
+    {"name": "salon_kuchnia_jadalnia", "target_m2": 38},
+    {"name": "sypialnia_1", "target_m2": 13},
+    {"name": "sypialnia_2", "target_m2": 11},
+    {"name": "sypialnia_3", "target_m2": 10},
+    {"name": "lazienka", "target_m2": 7},
+    {"name": "wc", "target_m2": 2},
+    {"name": "wiatrolap_hol", "target_m2": 11},
+    {"name": "pom_techniczne", "target_m2": 5},
+    {"name": "komunikacja", "target_m2": 6}
+  ],
+  "total_target_m2": 103,
+  "orientation_strategy": "living_south_west_entry_north",
+  "status": "robocze"
+}

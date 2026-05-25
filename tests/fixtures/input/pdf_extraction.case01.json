@@ -1,0 +1,14 @@
+{
+  "project_id": "DOM_100_MVP_A_CASE01",
+  "extracted": {
+    "building_function": "mieszkalna_jednorodzinna",
+    "roof_shape": "flat",
+    "usable_area_m2": 102.4,
+    "biologically_active_area_pct": 48,
+    "parking_spaces": 2,
+    "height_m": 8.7,
+    "entry_orientation": "north",
+    "day_zone_orientation": "south_west"
+  },
+  "extraction_status": "potwierdzone"
+}
