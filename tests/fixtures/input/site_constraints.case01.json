@@ -1,0 +1,16 @@
+{
+  "project_id": "DOM_100_MVP_A_CASE01",
+  "planning": {
+    "designation": {"value": "MN", "status": "potwierdzone"},
+    "roof": {"value": "gable_35_45_deg", "status": "potwierdzone"},
+    "biologically_active_area_min_pct": {"value": 50, "status": "potwierdzone"},
+    "parking_spaces_min": {"value": 2, "status": "potwierdzone"},
+    "height_limit_m": {"value": 9, "status": "potwierdzone"}
+  },
+  "utility_access": {
+    "water": "potwierdzone",
+    "sewage": "potwierdzone",
+    "power": "potwierdzone",
+    "gas": "do_weryfikacji"
+  }
+}

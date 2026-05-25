@@ -1,0 +1,22 @@
+{
+  "project_id": "DOM_100_MVP_A_CASE01",
+  "scenario": "MVP_A_CASE01",
+  "checks_summary": {
+    "total": 5,
+    "passed": 3,
+    "warnings": 0,
+    "failed": 2
+  },
+  "errors": [
+    "Niezgodny typ dachu względem MPZP/WZ.",
+    "Niespełnione minimalne PBC."
+  ],
+  "risks": [
+    "Ryzyka formalne wymagają decyzji projektanta."
+  ],
+  "missing_data": [],
+  "designer_decisions_required": [
+    "Skorygować geometrię dachu do wymagań planu.",
+    "Skorygować PZT dla osiągnięcia wymaganego PBC."
+  ]
+}

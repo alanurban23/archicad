@@ -1,0 +1,11 @@
+{
+  "project_id": "DOM_100_MVP_A_CASE01",
+  "country": "PL",
+  "house_type": "single_family_detached",
+  "target_useful_area_m2": 100,
+  "tolerance_m2": {"min": 95, "max": 105},
+  "household": {"adults": 2, "children": 2},
+  "budget": {"currency": "PLN", "capex_range": "850k-1.1m", "status": "robocze"},
+  "priorities": ["compliance", "buildability", "cost_control"],
+  "assumption_status": "robocze"
+}

@@ -1,0 +1,17 @@
+{
+  "project_id": "DOM_100_MVP_A_CASE01",
+  "description_version": "v1",
+  "sections": {
+    "general": "Budynek mieszkalny jednorodzinny, parterowy, PU 102.4 m2.",
+    "functional": "Strefa dzienna od poludnia/zachodu, wejscie od polnocy.",
+    "formal": "Wymagane sprawdzenie zgodnosci dachu i PBC z MPZP."
+  },
+  "status_tags": {
+    "building_function": "potwierdzone",
+    "roof_shape": "ryzyko",
+    "usable_area": "potwierdzone",
+    "biologically_active_area": "ryzyko",
+    "parking_spaces": "potwierdzone",
+    "height": "potwierdzone"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "project_id": "DOM_100_MVP_A_CASE01",
+  "description_version": "generated_v1",
+  "sections": {
+    "general": "Budynek mieszkalny jednorodzinny, PU 102.4 m2.",
+    "functional": "Wejście: north, strefa dzienna: south_west.",
+    "formal": "Opis wygenerowany automatycznie z danych testowych i porównania z MPZP/WZ."
+  },
+  "status_tags": {
+    "building_function": "potwierdzone",
+    "roof_shape": "ryzyko",
+    "usable_area": "potwierdzone",
+    "biologically_active_area": "ryzyko",
+    "parking_spaces": "potwierdzone",
+    "height": "potwierdzone"
+  }
+}

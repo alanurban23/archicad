@@ -1,0 +1,17 @@
+{
+  "project_id": "DOM_100_MVP_A",
+  "archicad_version": "29",
+  "automation_stack": ["tapir", "tapir-archicad-mcp", "archicad_python_api"],
+  "elements": {
+    "stories": [{"name": "Parter", "elevation_m": 0.0}],
+    "zones": "from_design_variant",
+    "walls": "external_and_internal_basic",
+    "roof": "simple_gable",
+    "openings": "basic_doors_windows"
+  },
+  "ifc_export": {
+    "enabled": true,
+    "post_check": "ifcopenshell"
+  },
+  "fallback_manual_steps": []
+}

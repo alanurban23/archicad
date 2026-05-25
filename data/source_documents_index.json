@@ -1,0 +1,19 @@
+{
+  "project_id": "DOM_100_MVP_A",
+  "documents": [
+    {
+      "id": "pdf_project_main",
+      "type": "pdf",
+      "title": "Projekt budowlany - dokument glowny",
+      "path": "do_uzupelnienia",
+      "status": "do_weryfikacji"
+    },
+    {
+      "id": "decision_wz_or_mpzp",
+      "type": "planning_basis",
+      "title": "WZ lub MPZP",
+      "path": "do_uzupelnienia",
+      "status": "do_weryfikacji"
+    }
+  ]
+}

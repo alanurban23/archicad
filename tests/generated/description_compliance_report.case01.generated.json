@@ -1,0 +1,43 @@
+{
+  "project_id": "DOM_100_MVP_A_CASE01",
+  "overall_status": "ryzyko",
+  "checks": [
+    {
+      "name": "przeznaczenie",
+      "result": "zgodne",
+      "status": "potwierdzone"
+    },
+    {
+      "name": "dach",
+      "result": "niezgodne",
+      "status": "ryzyko",
+      "expected": "gable_35_45_deg",
+      "actual": "flat"
+    },
+    {
+      "name": "pbc",
+      "result": "niezgodne",
+      "status": "ryzyko",
+      "expected_min": 50,
+      "actual": 48
+    },
+    {
+      "name": "miejsca_parkingowe",
+      "result": "zgodne",
+      "status": "potwierdzone"
+    },
+    {
+      "name": "wysokosc",
+      "result": "zgodne",
+      "status": "potwierdzone"
+    }
+  ],
+  "mismatches": [
+    "Niezgodny typ dachu względem MPZP/WZ.",
+    "Niespełnione minimalne PBC."
+  ],
+  "designer_decisions_required": [
+    "Skorygować geometrię dachu do wymagań planu.",
+    "Skorygować PZT dla osiągnięcia wymaganego PBC."
+  ]
+}
